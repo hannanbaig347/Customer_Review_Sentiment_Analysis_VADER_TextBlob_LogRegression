@@ -16,15 +16,15 @@ Using a combination of **lexicon-based models** (VADER, TextBlob) and a highly a
 
 ## Table of Contents
 
-* [Project Overview](#-project-overview)
-* [The Business Problem](#-the-business-problem)
-* [Tech Stack](#-tech-stack)
-* [Data Preparation & Feature Engineering](#-data-preparation--feature-engineering)
-* [Model Comparisons](#-model-comparisons)
-* [The Final Model: Logistic Regression](#-the-final-model-logistic-regression)
-* [Key Business Insights](#-key-business-insights)
-* [Real-World Impact](#-real-world-impact-what-this-project-does-for-a-business)
-* [How to Run the Project](#-how-to-run-the-project)
+* [Project Overview](#project-overview)
+* [The Business Problem](#the-business-problem)
+* [Tech Stack](#tech-stack)
+* [Data Preparation & Feature Engineering](#data-preparation--feature-engineering)
+* [Model Comparisons](#model-comparisons)
+* [The Final Model: Logistic Regression](#the-final-model-logistic-regression)
+* [Key Business Insights](#key-business-insights)
+* [Real-World Impact](#real-world-impact-what-this-project-does-for-a-business)
+* [How to Run the Project](#how-to-run-the-project)
 
 ---
 ## The Business Problem
