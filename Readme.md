@@ -8,6 +8,10 @@ Using a combination of **lexicon-based models** (VADER, TextBlob) and a highly a
 
 > **The core takeaway for a business owner:** We moved past simple sentiment scoring to identify precisely which **products, features, and operational issues** ('Customer Service was bad,' 'Product D broke easily') are driving success and failure.
 
+<br>
+
+**[READ THE FULL TECHNICAL REPORT (PDF)](/Outputs/Report.pdf)**
+
 ---
 
 ## Table of Contents
